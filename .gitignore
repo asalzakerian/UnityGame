@@ -2,13 +2,21 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
+<<<<<<< HEAD
+.utmp/
+=======
+>>>>>>> 33134c01c3f96b8da6721049f53fb8302ee91a24
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+<<<<<<< HEAD
+*.log
+=======
+>>>>>>> 33134c01c3f96b8da6721049f53fb8302ee91a24
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -59,6 +67,10 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+<<<<<<< HEAD
+*.unitypackage.meta
+=======
+>>>>>>> 33134c01c3f96b8da6721049f53fb8302ee91a24
 *.app
 
 # Crashlytics generated file
